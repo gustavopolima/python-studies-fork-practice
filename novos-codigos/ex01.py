@@ -8,3 +8,4 @@ minha_lista = ["Python", "é", "uma", "linguagem", "de", "programação"]
 # Imprimindo a variável e a lista
 print("String armazenada:", minha_string)
 print("Lista de strings armazenadas:", minha_lista)
+print("Lista de strings armazenadas:", minha_lista)
